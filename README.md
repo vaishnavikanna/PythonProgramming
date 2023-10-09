@@ -1,2 +1,2 @@
 # PythonProgramming
-This is a list of all the python programs I have completed last semester in machine learning and data science, I am interested in proceeding in data analysis further.
+Developed supervised and unsupervised machine learning models in python to understand the algorithms better and to fine tune the performance of the different machine learning models
